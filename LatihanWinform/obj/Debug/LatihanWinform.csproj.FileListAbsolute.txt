@@ -1,0 +1,10 @@
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\bin\Debug\LatihanWinform.exe.config
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\bin\Debug\LatihanWinform.exe
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\bin\Debug\LatihanWinform.pdb
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.csprojResolveAssemblyReference.cache
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.Form1.resources
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.Properties.Resources.resources
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.csproj.GenerateResource.Cache
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.exe
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.pdb
+D:\kuliah\SEMESTER 3\Pemograman Lanjut\Mahasiswa\LatihanWinform\LatihanWinform\obj\Debug\LatihanWinform.FrmListMahasiswa.resources
